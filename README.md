@@ -6,7 +6,7 @@ The repository contains the following devices:
 
 ## Acquisition board v1.0
 
-![board_v1.0](acquisition board v1.0/photo.jpg)
+![board_v1.0](acquisition_board_v1.0/photo.jpg)
 
 The original version of the acquisition board as detailed in the [pyPhotometry manuscript](https://www.nature.com/articles/s41598-019-39724-y), featuring:
 
@@ -16,7 +16,7 @@ The original version of the acquisition board as detailed in the [pyPhotometry m
 
 ## Acquisition board v2.0
 
-![board_v2.0](acquisition board v2.0/photo.png)
+![board_v2.0](acquisition_board_v2.0/photo.png)
 
 An updated version of the acquisition board with the following improvements from version 1.0:
 
@@ -25,6 +25,7 @@ An updated version of the acquisition board with the following improvements from
 
 ## Acquisition board case
 
-![board_v2.0](acquisition board case/photo.png)
+![board_v2.0](acquisition_board_case/photo.png)
 
 A plastic case compatible both v1.0 and v2.0 acquisition boards.
+
